@@ -1,0 +1,22 @@
+<template>
+    <div>
+        <h2>{{msg}}</h2>
+        <p>{{page}}</p>
+        <button @click="eve()">Click</button>
+    </div>
+</template>
+<script>
+    module.exports={
+        data:function(){
+            return{
+                msg:'title4',
+                page:'page4'
+            }
+        },
+        methods:{
+            eve:function(){
+                alert('4');
+            }
+        }
+    }
+</script>

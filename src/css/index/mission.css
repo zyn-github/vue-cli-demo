@@ -1,0 +1,265 @@
+a{text-decoration:none;}
+.menu
+{
+    width: 100%;
+    margin-bottom: 1.4rem;
+}
+.menuTitle
+{
+    overflow: hidden;
+
+    padding: .3rem 0;
+}
+.menuTitle a
+{
+    font-size: .4rem; 
+    line-height: .5rem;
+
+    float: left;
+
+    width: 50%;
+    height: .5rem;
+    color:#000;
+    text-align: center;
+}
+.menuTitle .active
+{
+    color: #3f98f5;
+    background: url(../../images/sy_shug_05.png) 1.7rem center no-repeat;
+    background-size: .07rem;
+}
+.menuContent
+{
+        margin-top: 0;
+        padding:0;
+    border-top: .02rem solid #dcdcdc;
+    border-bottom: .02rem solid #dcdcdc;
+}
+.menuContent1
+{
+    border-top: .02rem solid #dcdcdc;
+    border-bottom: .02rem solid #dcdcdc;
+}
+.menuContent > li
+{
+    margin-bottom: .4rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    background-color: #fff;
+}
+.menuContent1 > li
+{
+    margin-bottom: .4rem; 
+    padding-left: 6px;
+
+    background-color: #fff;
+}
+.Yu_grxx
+{
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom:0;
+    border-bottom: .02rem solid #dcdcdc;
+}
+.Yu_grxx .userImg
+{
+
+    font-size: .35rem;
+    line-height: 1rem;
+
+    padding: .2rem 0 .2rem .78rem;
+
+    color: #959595;
+    background: url(../../images/sy_tx_03.png) left center no-repeat ;
+    background-size: .75rem;
+}
+.Yu_grxx i
+{
+    font-size: .34rem;
+
+    margin-left: .2rem;
+    padding: 0 .08rem;
+
+    color: #fff;
+    border-radius: .05rem; 
+    background-color: #20c5ae;
+}
+.Yu_grxx b
+{
+    font-size: .38rem;
+    margin-top:-.5rem;
+    font-weight: normal;
+    line-height: 1.5rem;
+
+    float: right;
+
+    color: #9f9f9f;
+}
+.Yu___IMG__t
+{
+    margin-top: .4rem;
+}
+.Yu___IMG__t .img
+{
+    width: 2.45rem;
+    margin-right: .2rem;
+}
+.Yu_maner
+{
+    margin: 0;
+    line-height: .9rem;
+}
+.Yu_maner span
+{
+    font-size: .34rem;
+
+    color: #f74435;
+}
+.Yu_maner b
+{
+    font-size: .34rem;
+    font-weight: normal;
+
+    margin-left: .3rem;
+
+    color: #969696;
+}
+.Yu_neir
+{
+    font-size: .34rem;
+
+    color: #636363;
+}
+.Yu_weizh
+{
+    padding: .2rem 0;
+}
+.Yu_weizh span
+{
+    font-size: .34rem;
+
+    padding-left: .4rem;  
+
+    color: #969696;
+    background: url(../../images/sy_dw_19.png) left center no-repeat;
+    background-size: .36rem;
+}
+.Yu_weizh b
+{
+    font-size: .34rem;
+    font-weight: normal;  
+
+    float: right;
+
+    color: #9f9f9f;
+}
+.Yu_weizh
+{
+    line-height: .7rem;
+    margin:0;
+    overflow: hidden;
+}
+.Yu_dianpu
+{
+    overflow: hidden;
+
+    padding: .4rem 0;
+}
+.Yu_dianpu .img
+{
+    float: left;
+
+    width: 3.5rem;
+}
+.Yu_sbnnb
+{
+    float: left;
+
+    width: 7rem; 
+    margin-left: .2rem;
+}
+.Yu_sbnnb span
+{
+    font-size: .35rem;
+    line-height: 200%;
+
+    display: block;
+
+    height: 2rem;
+
+    color: #636363;
+}
+.Yu_sbnnb i
+{
+    font-size: .25rem;
+
+    margin-right: .2rem;
+    padding: .05rem;
+
+    color: #fff;
+    border-radius: .05rem;
+    background-color: #adadad;
+}
+.Yu_sbnnb b
+{
+    font-size: .34rem;
+    font-weight: normal;
+
+    display: block;
+
+    margin-left: 3.5rem; 
+
+    color: #9f9f9f;
+}
+.scroll
+{
+    overflow-x: scroll;
+}
+.scroll .img
+{
+    display: inline-block;
+    float: left;
+
+    width: 2.5rem;
+}
+.swiper-container {
+        width: 100%;
+        height: 3rem;
+        
+    }
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        width: 3rem !important;
+        height: 3rem;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+    .append-buttons {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .append-buttons a {
+        display: inline-block;
+        border: 1px solid #007aff;
+        color: #007aff;
+        text-decoration: none;
+        padding: 4px 10px;
+        border-radius: 4px;
+        margin: 0 10px;
+        font-size: 13px;
+    }
+    .a_container{
+        text-decoration:none;
+    }

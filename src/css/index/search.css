@@ -1,0 +1,11 @@
+.yu_had{ height:4.4rem; background-image:url(../../images/sy_bjt_01.png); background-size: cover; overflow:hidden; background-repeat:no-repeat; width:100%;}
+.had_chid{ margin-top: 1.5rem; overflow:hidden}
+.nav1{width:1.3rem;height:0.5rem; float:left; margin-left:0.5rem; margin-top:0.2rem}
+.nav1 p{display:block;padding-left:0.1rem;line-height:0.5rem;color:#fff; font-size:0.45rem;margin: 0}
+.set{background:url(../../images/btn_2.png) 1rem 0.2rem no-repeat; background-size:0.3rem}
+.select{background:url(../../images/btn_1.png) 1rem 0.2rem no-repeat; background-size:0.3rem}
+.new{width:1.3rem;position:absolute;display:none;color:#fff; font-size:0.4rem}
+.nav1 ul li{line-height:0.5rem;padding-left:0.1rem;}
+.nav1 ul li:hover{background:#CCC;color:#FFF;}
+.had_chid input{ width:5rem; height:1rem; background:url(../../images/sy_ssk_03.png) no-repeat; background-size: cover; float:left; margin-left:0.5rem; border:none; border-radius:0.15rem; padding-left:0.9rem; font-size:0.4rem; color:#fff; outline:medium;}
+.had_chid .fwts{ font-size:0.4rem; color:#fff; margin-top:0.2rem; float:left; margin-left:0.5rem; background:url(../../images/sy_fwt_03.png) no-repeat left center; background-size:0.5rem; padding:0.1rem 0 0.1rem 0.6rem}

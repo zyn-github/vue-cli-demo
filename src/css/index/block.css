@@ -1,0 +1,11 @@
+.Yu_dnav{ overflow:hidden;background-color:#fff;padding: 0;list-style: none;}
+.Yu_dnav li a{  display:block; width:1.6rem; height:0.8rem; float:left; background-size:1.6rem; margin-left:0.9rem; color:#3c3c3c; font-size:0.38rem; text-align:center; padding-top:1.7rem; overflow:hidden; margin-top:0.25rem;}
+.caer1 a{background:url(../../images/sy_tb_04.png) no-repeat;}
+.caer2 a{background:url(../../images/sy_tb_06.png) no-repeat;}
+.caer3 a{background:url(../../images/sy_tb_08.png) no-repeat;}
+.caer4 a{background:url(../../images/sy_tb_10.png) no-repeat;}
+.caer5 a{background:url(../../images/sy_tb_17.png) no-repeat;}
+.caer6 a{background:url(../../images/sy_tb_18.png) no-repeat;}
+.caer7 a{background:url(../../images/sy_tb_19.png) no-repeat;}
+.caer8 a{background:url(../../images/sy_tb_20.png) no-repeat;}
+.Yu_celan{ margin-top:0.4rem; width:100%; height:2.9rem}
